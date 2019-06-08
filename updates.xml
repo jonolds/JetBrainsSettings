@@ -11,11 +11,8 @@
     <knownExternalComponentSources>
       <item value="Android SDK" />
     </knownExternalComponentSources>
-    <option name="LAST_BUILD_CHECKED" value="AI-191.7141.44.35.5585527" />
-    <option name="LAST_TIME_CHECKED" value="1559926239111" />
-    <pluginHosts>
-      <item value="https://plugins.jetbrains.com/plugins/eap/org.jetbrains.kotlin" />
-    </pluginHosts>
+    <option name="LAST_BUILD_CHECKED" value="IU-191.7479.19" />
+    <option name="LAST_TIME_CHECKED" value="1559953106579" />
     <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
   </component>
 </application>
