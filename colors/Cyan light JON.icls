@@ -3,7 +3,7 @@
     <property name="created">2019-06-04T07:18:42</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.0.15</property>
-    <property name="modified">2019-06-07T19:42:02</property>
+    <property name="modified">2019-06-07T19:43:53</property>
     <property name="originalScheme">_@user_Cyan light</property>
   </metaInfo>
   <colors>
@@ -26,7 +26,7 @@
     </option>
     <option name="CONSTRUCTOR_DECLARATION_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="e4e54c" />
+        <option name="FOREGROUND" value="813da7" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
