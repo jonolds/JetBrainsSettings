@@ -1,13 +1,38 @@
 <scheme name="_@user_Default" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2019-06-03T01:38:29</property>
-    <property name="ide">AndroidStudio</property>
-    <property name="ideVersion">3.4.1.0</property>
-    <property name="modified">2019-06-04T01:13:00</property>
+    <property name="created">2019-04-22T03:29:02</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2019.1.1.0.0</property>
+    <property name="modified">2019-06-01T06:48:08</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
-    <option name="FILESTATUS_COPIED" value="c3e88d" />
-    <option name="FILESTATUS_RENAMED" value="4242" />
+    <option name="DIAGRAM_NODE_BACKGROUND" value="ffffff" />
+    <option name="DIAGRAM_NODE_HEADER" value="f7fcff" />
+    <option name="DIAGRAM_NOTE_BACKGROUND" value="ff2c0c" />
+    <option name="DIAGRAM_NOTE_BORDER" value="0" />
   </colors>
+  <attributes>
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="d6b0a" />
+        <option name="BACKGROUND" value="d2d2d2" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="DEFAULT_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="d6b0a" />
+        <option name="BACKGROUND" value="f3f3f3" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="TODO_DEFAULT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="446f" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
