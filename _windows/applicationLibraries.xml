@@ -8,6 +8,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="@types/rx-angular" type="javaScript">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="scala-sdk-2.12.8">
       <CLASSES>
         <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.8.jar!/" />
