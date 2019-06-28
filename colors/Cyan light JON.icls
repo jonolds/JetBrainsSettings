@@ -3,7 +3,7 @@
     <property name="created">2019-06-04T07:18:42</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.0.15</property>
-    <property name="modified">2019-06-07T19:43:53</property>
+    <property name="modified">2019-06-27T20:45:31</property>
     <property name="originalScheme">_@user_Cyan light</property>
   </metaInfo>
   <colors>
@@ -262,6 +262,12 @@
         <option name="FOREGROUND" value="1717e6" />
         <option name="FONT_TYPE" value="3" />
         <option name="ERROR_STRIPE_COLOR" value="1717e6" />
+      </value>
+    </option>
+    <option name="TS.INTERFACE">
+      <value>
+        <option name="FOREGROUND" value="27e9" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="TYPO">
