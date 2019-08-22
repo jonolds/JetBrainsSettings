@@ -1,6 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Kotlin/Convert to block body" />
-    <ignoreAction name="Java/Modifiers/Make Package-Private" />
-  </component>
-</application>
