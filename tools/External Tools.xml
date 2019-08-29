@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="adb power" description="press power button" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Users\jonol\AppData\Local\Android\Sdk\platform-tools\adb.exe" />
+      <option name="PARAMETERS" value="shell input keyevent 26" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
