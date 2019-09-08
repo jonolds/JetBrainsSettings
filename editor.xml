@@ -1,3 +1,7 @@
 <application>
+  <component name="EditorSettings">
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
+  </component>
   <component name="LiveEditOptions" chromeAutoDelay="100" nodeAutoDelay="100" restartIfHotSwapFailed="true" />
 </application>
