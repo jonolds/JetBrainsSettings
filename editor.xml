@@ -1,6 +1,3 @@
 <application>
   <component name="LiveEditOptions" chromeAutoDelay="100" nodeAutoDelay="100" restartIfHotSwapFailed="true" />
-  <component name="TodoConfiguration">
-    <pattern pattern="\b(todo|fixme)\b.*" />
-  </component>
 </application>
