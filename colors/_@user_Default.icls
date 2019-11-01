@@ -3,7 +3,7 @@
     <property name="created">2019-04-22T03:29:02</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-11-01T07:56:14</property>
+    <property name="modified">2019-11-01T08:34:41</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
@@ -30,8 +30,9 @@
     <option name="STATIC_METHOD_IMPORTED_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="fa0d7d" />
-        <option name="BACKGROUND" value="e4eee5" />
+        <option name="BACKGROUND" value="f3f3f3" />
         <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="9eb37f" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">

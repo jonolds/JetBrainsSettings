@@ -3,7 +3,7 @@
     <property name="created">2019-06-04T07:18:42</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.5.0.15</property>
-    <property name="modified">2019-06-27T20:45:31</property>
+    <property name="modified">2019-11-01T08:26:42</property>
     <property name="originalScheme">_@user_Cyan light</property>
   </metaInfo>
   <colors>
@@ -242,6 +242,14 @@
       <value>
         <option name="FOREGROUND" value="660e7a" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="STATIC_METHOD_IMPORTED_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="fa0d7d" />
+        <option name="BACKGROUND" value="d9d9d9" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="4bc863" />
       </value>
     </option>
     <option name="TEXT">
