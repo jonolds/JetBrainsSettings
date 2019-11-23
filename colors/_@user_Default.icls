@@ -3,7 +3,7 @@
     <property name="created">2019-04-22T03:29:02</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-11-23T13:35:44</property>
+    <property name="modified">2019-11-23T14:08:39</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
@@ -15,8 +15,8 @@
   <attributes>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="d6b0a" />
-        <option name="BACKGROUND" value="d2d2d2" />
+        <option name="FOREGROUND" value="59cc0" />
+        <option name="BACKGROUND" value="404040" />
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
