@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Database view" displayType="NONE" />
     <notification groupId="Settings Repository" displayType="NONE" shouldLog="false" />
   </component>
 </application>
