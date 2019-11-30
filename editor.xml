@@ -1,13 +1,3 @@
 <application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_METHODS" value="true" />
-    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
-    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
-  </component>
-  <component name="JavaCodeFoldingSettings">
-    <option name="collapseAccessors" value="true" />
-    <option name="collapseAnnotations" value="true" />
-    <option name="collapseMultilineComments" value="true" />
-  </component>
   <component name="LiveEditOptions" chromeAutoDelay="100" nodeAutoDelay="100" restartIfHotSwapFailed="true" />
 </application>
