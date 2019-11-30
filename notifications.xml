@@ -1,7 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Database view" displayType="NONE" />
-    <notification groupId="Error Report" displayType="NONE" shouldLog="false" />
-    <notification groupId="Settings Repository" displayType="NONE" shouldLog="false" />
-  </component>
-</application>
