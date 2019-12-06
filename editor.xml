@@ -6,6 +6,7 @@
   </component>
   <component name="JavaCodeFoldingSettings">
     <option name="collapseAccessors" value="true" />
+    <option name="collapseAnnotations" value="true" />
   </component>
   <component name="LiveEditOptions" chromeAutoDelay="100" nodeAutoDelay="100" restartIfHotSwapFailed="true" />
   <component name="TodoConfiguration">
