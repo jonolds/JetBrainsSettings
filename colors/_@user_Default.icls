@@ -3,7 +3,7 @@
     <property name="created">2019-04-22T03:29:02</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.1.0.0</property>
-    <property name="modified">2019-11-25T17:03:03</property>
+    <property name="modified">2019-12-07T02:05:55</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
@@ -22,9 +22,11 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="d6b0a" />
-        <option name="BACKGROUND" value="f3f3f3" />
+        <option name="FOREGROUND" value="419ff" />
+        <option name="BACKGROUND" value="fbfbfb" />
         <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_COLOR" value="419ff" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
