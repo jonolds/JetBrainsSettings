@@ -29,5 +29,66 @@
       <shortuct text="control A" />
       <shortuct text="ENTER" />
     </macro>
+    <macro name="test3">
+      <action id="CopyReference" />
+      <action id="GotoClass" />
+      <action id="EditorPaste" />
+      <shortuct text="ENTER" />
+      <action id="Generate" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <action id="GenerateSetter" />
+      <shortuct text="control A" />
+      <shortuct text="ENTER" />
+      <shortuct text="control F4" />
+      <action id="Tree-selectNext" />
+    </macro>
+    <macro name="5">
+      <action id="CopyReference" />
+      <action id="GotoClass" />
+      <action id="EditorPaste" />
+      <shortuct text="ENTER" />
+      <action id="Generate" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <action id="GenerateSetter" />
+      <action id="Tree-selectNextExtendSelection" />
+      <action id="Tree-selectNextExtendSelection" />
+      <action id="Tree-selectNextExtendSelection" />
+      <action id="Tree-selectNextExtendSelection" />
+      <action id="Tree-selectNextExtendSelection" />
+      <action id="Tree-selectNextExtendSelection" />
+      <action id="Tree-selectNextExtendSelection" />
+      <action id="Tree-selectNextExtendSelection" />
+      <action id="Tree-selectNextExtendSelection" />
+      <action id="Tree-selectNextExtendSelection" />
+      <action id="Tree-selectNextExtendSelection" />
+      <shortuct text="ENTER" />
+      <shortuct text="ENTER" />
+      <shortuct text="control F4" />
+      <action id="Tree-selectNext" />
+    </macro>
+    <macro name="6">
+      <action id="CopyReference" />
+      <action id="GotoClass" />
+      <action id="EditorPaste" />
+      <shortuct text="ENTER" />
+      <action id="Generate" />
+      <action id="GenerateSetter" />
+      <shortuct text="control A" />
+      <action id="Tree-selectNextExtendSelection" />
+      <shortuct text="control A" />
+    </macro>
+    <macro name="7">
+      <action id="CopyReference" />
+      <action id="GotoClass" />
+      <action id="EditorPaste" />
+      <shortuct text="ENTER" />
+      <action id="Generate" />
+      <action id="GenerateSetter" />
+      <shortuct text="control A" />
+    </macro>
   </component>
 </application>
