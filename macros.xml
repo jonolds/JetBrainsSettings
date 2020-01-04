@@ -1,0 +1,33 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="setters">
+      <action id="Generate" />
+      <action id="GenerateSetter" />
+      <action id="Tree-selectNextExtendSelection" />
+      <shortuct text="ENTER" />
+    </macro>
+    <macro name="test">
+      <action id="Tree-selectNext" />
+      <action id="Generate" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <action id="GenerateSetter" />
+      <shortuct text="control A" />
+      <shortuct text="ENTER" />
+    </macro>
+    <macro name="test2">
+      <action id="CopyReference" />
+      <action id="GotoClass" />
+      <action id="EditorPaste" />
+      <shortuct text="ENTER" />
+      <action id="Generate" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <shortuct text="DOWN" />
+      <action id="GenerateSetter" />
+      <shortuct text="control A" />
+      <shortuct text="ENTER" />
+    </macro>
+  </component>
+</application>
