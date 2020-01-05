@@ -1,0 +1,11 @@
+<keymap version="1" name="Eclipse copy 1" parent="Eclipse">
+  <action id="CompareTwoFiles" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDeleteLine" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="Macro.setters">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="openAssertEqualsDiff" />
+</keymap>
