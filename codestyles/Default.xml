@@ -5,6 +5,9 @@
       <option name="USE_TAB_CHARACTER" value="true" />
     </value>
   </option>
+  <JavaCodeStyleSettings>
+    <option name="USE_SINGLE_CLASS_IMPORTS" value="false" />
+  </JavaCodeStyleSettings>
   <codeStyleSettings language="ECMA Script Level 4">
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="4" />
