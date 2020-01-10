@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Sqr'" />
-    <option name="defaultScopeName" value="Project 'Sqr'" />
+    <option name="customScope" value="Directory '...\src\main\java\cube [Sqr.main]'" />
+    <option name="defaultScopeName" value="Directory '...\src\main\java\cube [Sqr.main]'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Sqr'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\src\main\java\cube [Sqr.main]'" />
   </component>
 </application>
