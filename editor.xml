@@ -1,15 +1,17 @@
 <application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_METHODS" value="true" />
-    <option name="COLLAPSE_DOC_COMMENTS" value="true" />
-    <option name="COLLAPSE_CUSTOM_FOLDING_REGIONS" value="true" />
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="10" />
   </component>
-  <component name="JavaCodeFoldingSettings">
-    <option name="collapseAccessors" value="true" />
-    <option name="collapseAnnotations" value="true" />
+  <component name="EditorSettings">
+    <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
+    <option name="ENABLE_RENDERED_DOC" value="true" />
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
-  <component name="LiveEditOptions" chromeAutoDelay="100" nodeAutoDelay="100" restartIfHotSwapFailed="true" />
+  <component name="JetEditorOptions">
+    <option name="donTShowConversionDialog" value="true" />
+  </component>
   <component name="TodoConfiguration">
-    <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
   </component>
 </application>
