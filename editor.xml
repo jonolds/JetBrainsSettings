@@ -20,7 +20,6 @@
     <option name="disabledLanguages">
       <set>
         <option value="JAVA" />
-        <option value="kotlin" />
       </set>
     </option>
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
