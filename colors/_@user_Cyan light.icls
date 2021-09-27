@@ -3,7 +3,7 @@
     <property name="created">2020-11-09T20:32:14</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2020.2.3.0.0</property>
-    <property name="modified">2020-11-10T00:33:58</property>
+    <property name="modified">2021-09-27T03:31:24</property>
     <property name="originalScheme">Cyan light</property>
   </metaInfo>
   <colors>
@@ -39,7 +39,8 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="255ed2" />
+        <option name="BACKGROUND" value="e7e7e7" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_NAME">
@@ -81,7 +82,9 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="808080" />
+        <option name="FOREGROUND" value="eff" />
+        <option name="BACKGROUND" value="e7e7e7" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
