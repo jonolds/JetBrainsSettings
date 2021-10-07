@@ -1,0 +1,11 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="setters">
+      <action id="Generate" />
+      <action id="GenerateSetter" />
+      <shortuct text="control A" />
+      <shortuct text="ENTER" />
+      <shortuct text="ENTER" />
+    </macro>
+  </component>
+</application>
