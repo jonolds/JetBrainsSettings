@@ -1,6 +1,5 @@
 <application>
   <component name="DebuggerSettings">
-    <option name="ENABLE_MEMORY_AGENT" value="true" />
     <option name="WATCH_RETURN_VALUES" value="true" />
     <option name="AUTO_VARIABLES_MODE" value="true" />
     <filter>
@@ -70,11 +69,6 @@
     </filter>
     <filter>
       <option name="PATTERN" value="com.ibm.ws.*" />
-      <option name="ENABLED" value="true" />
-      <option name="INCLUDE" value="true" />
-    </filter>
-    <filter>
-      <option name="PATTERN" value="kotlin.*" />
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
     </filter>
