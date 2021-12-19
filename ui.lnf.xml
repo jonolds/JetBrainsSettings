@@ -5,6 +5,7 @@
     <option name="SCOPE_TYPE" value="file" />
   </component>
   <component name="UISettings">
+    <option name="compactTreeIndents" value="true" />
     <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="4096" />
     <option name="EDITOR_TAB_LIMIT" value="18" />
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
