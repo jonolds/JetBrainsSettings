@@ -1,0 +1,16 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl period" />
+  </action>
+  <action id="CollapseBlock" />
+  <action id="GotoUrlAction" />
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="ZoomCurrentWindow">
+    <keyboard-shortcut first-keystroke="shift ctrl equals" />
+  </action>
+</keymap>
