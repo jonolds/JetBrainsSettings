@@ -1,6 +1,9 @@
 <application>
   <component name="NotificationConfiguration" showBalloons="false">
     <notification groupId="IDE and Plugin Updates" displayType="NONE" />
+    <notification groupId="ProfilerBalloon" displayType="TOOL_WINDOW" shouldLog="false" />
+    <notification groupId="ProfilerNotification" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Profiling" shouldLog="false" />
     <notification groupId="Settings Repository" displayType="NONE" />
     <notification groupId="Shared Indexing Log" displayType="NONE" shouldLog="false" />
     <notification groupId="System Health" displayType="NONE" />
