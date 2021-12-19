@@ -1,10 +1,19 @@
 <keymap version="1" name="Eclipse copy 1" parent="Eclipse">
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl divide" />
+    <keyboard-shortcut first-keystroke="shift ctrl period" />
+  </action>
+  <action id="CollapseBlock" />
   <action id="CompareTwoFiles" />
   <action id="Diff.ShowDiff" />
   <action id="EditorDeleteLine" />
   <action id="FileChooser.GotoDesktop" />
   <action id="Macro.setters">
     <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="Scala.ExpandImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
   </action>
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />

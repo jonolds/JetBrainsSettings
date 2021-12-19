@@ -1,0 +1,8 @@
+<application>
+  <component name="NotificationConfiguration" showBalloons="false">
+    <notification groupId="IDE and Plugin Updates" displayType="NONE" />
+    <notification groupId="Settings Repository" displayType="NONE" />
+    <notification groupId="Shared Indexing Log" displayType="NONE" shouldLog="false" />
+    <notification groupId="System Health" displayType="NONE" />
+  </component>
+</application>
