@@ -22,7 +22,7 @@
         <option value="JAVA" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="kotlin.lambdas.hints" />
+    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
   </component>
   <component name="JetEditorOptions">
     <option name="donTShowConversionDialog" value="true" />
