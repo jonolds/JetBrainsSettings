@@ -3,15 +3,11 @@
     <option name="PLACES_MAP">
       <entry key="BlankDiffWindow">
         <PlaceSettings>
+          <option name="EXPAND_BY_DEFAULT" value="false" />
           <option name="HIGHLIGHT_POLICY" value="BY_CHAR" />
           <option name="USE_SOFT_WRAPS" value="true" />
         </PlaceSettings>
       </entry>
-    </option>
-    <option name="SHARED_SETTINGS">
-      <SharedSettings>
-        <option name="ENABLE_ALIGNING_CHANGES_MODE" value="true" />
-      </SharedSettings>
     </option>
   </component>
 </application>
