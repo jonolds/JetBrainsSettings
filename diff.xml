@@ -5,7 +5,6 @@
         <PlaceSettings>
           <option name="EXPAND_BY_DEFAULT" value="false" />
           <option name="HIGHLIGHT_POLICY" value="BY_CHAR" />
-          <option name="USE_SOFT_WRAPS" value="true" />
         </PlaceSettings>
       </entry>
     </option>
