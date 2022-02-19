@@ -18,6 +18,11 @@
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
   <component name="InlayHintsSettings">
+    <option name="disabledHintProviderIds">
+      <set>
+        <option value="kotlin.kotlin.ranges.hints" />
+      </set>
+    </option>
     <option name="disabledLanguages">
       <set>
         <option value="JAVA" />
