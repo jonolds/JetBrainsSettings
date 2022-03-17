@@ -8,6 +8,23 @@
     <EXCLUDED_PACKAGE NAME="kotlin.UninitializedPropertyAccessException" />
     <EXCLUDED_PACKAGE NAME="kotlin.io" />
   </component>
+  <component name="CodeVisionSettings">
+    <option name="codeVisionGroupToPosition">
+      <map>
+        <entry key="Code author" value="Default" />
+        <entry key="Inheritors" value="Default" />
+        <entry key="Related problems" value="Default" />
+        <entry key="Usages" value="Default" />
+      </map>
+    </option>
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="java.references" />
+        <option value="references" />
+        <option value="vcs.code.vision" />
+      </set>
+    </option>
+  </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_ADD_IMPORT_HINTS" value="false" />
   </component>
@@ -20,6 +37,8 @@
   <component name="InlayHintsSettings">
     <option name="disabledHintProviderIds">
       <set>
+        <option value="JAVA.annotation.hints" />
+        <option value="JAVA.microservices.url.path.inlay.hints" />
         <option value="kotlin.kotlin.ranges.hints" />
       </set>
     </option>
@@ -28,7 +47,14 @@
         <option value="JAVA" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
+    <option name="lastViewedProviderKeyId" value=".inheritors" />
+    <settingsMapElement>
+      <JAVA.annotation.hints>
+        <Settings>
+          <option name="showExternal" value="false" />
+        </Settings>
+      </JAVA.annotation.hints>
+    </settingsMapElement>
   </component>
   <component name="JetEditorOptions">
     <option name="donTShowConversionDialog" value="true" />
