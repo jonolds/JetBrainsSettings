@@ -1,0 +1,44 @@
+<application>
+  <component name="FeatureSuggesterSettings">
+    <option name="suggestionLastShownTime">
+      <map>
+        <entry key="Completion with replace" value="1644849031345" />
+        <entry key="Introduce variable" value="1645102358751" />
+      </map>
+    </option>
+    <option name="workingDays">
+      <list>
+        <option value="1646777117054" />
+        <option value="1646805845724" />
+        <option value="1646898992689" />
+        <option value="1646978921506" />
+        <option value="1647117793505" />
+        <option value="1647157612312" />
+        <option value="1647236517083" />
+        <option value="1647321093215" />
+        <option value="1647407706898" />
+        <option value="1647551614894" />
+        <option value="1647600774815" />
+        <option value="1647673022763" />
+        <option value="1647752565859" />
+        <option value="1647839736256" />
+        <option value="1647937866599" />
+        <option value="1648012697548" />
+        <option value="1648119386228" />
+        <option value="1648184431055" />
+        <option value="1648270928322" />
+        <option value="1648522248578" />
+        <option value="1648530005015" />
+        <option value="1648616407243" />
+        <option value="1648704620969" />
+        <option value="1648789613774" />
+        <option value="1648877934864" />
+        <option value="1648970220682" />
+        <option value="1649048619504" />
+        <option value="1649135609942" />
+        <option value="1649221201969" />
+        <option value="1649307635153" />
+      </list>
+    </option>
+  </component>
+</application>
