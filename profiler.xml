@@ -7,7 +7,7 @@
     </option>
     <option name="flameGraphState">
       <flame-graph-ui>
-        <option name="icicleGraph" value="true" />
+        <option name="filterSlider" value="true" />
       </flame-graph-ui>
     </option>
     <option name="processOptions">
