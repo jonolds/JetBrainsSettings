@@ -9,6 +9,7 @@
     <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="12288" />
     <option name="EDITOR_TAB_LIMIT" value="18" />
     <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
+    <option name="MAX_LOOKUP_WIDTH2" value="544" />
     <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
     <option name="SHOW_FILE_ICONS_IN_TABS" value="false" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
