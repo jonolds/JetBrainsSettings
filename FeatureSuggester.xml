@@ -9,7 +9,6 @@
     </option>
     <option name="workingDays">
       <list>
-        <option value="1654146000511" />
         <option value="1654232705029" />
         <option value="1654349611833" />
         <option value="1654417605836" />
@@ -39,6 +38,7 @@
         <option value="1656748728008" />
         <option value="1656827708078" />
         <option value="1656931619787" />
+        <option value="1657014811265" />
       </list>
     </option>
   </component>
