@@ -24,7 +24,6 @@
                   <option value="com.intellij.properties" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -38,6 +37,17 @@
         <entry key="QQ963577663">
           <value>
             <PluginData />
+          </value>
+        </entry>
+        <entry key="com.cuongloveit.androidsorter">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="org.jetbrains.kotlin" />
+                </set>
+              </option>
+            </PluginData>
           </value>
         </entry>
         <entry key="com.jetbrains.CyanTheme">
@@ -88,9 +98,7 @@
         </entry>
         <entry key="com.jetbrains.space">
           <value>
-            <PluginData>
-              <option name="enabled" value="false" />
-            </PluginData>
+            <PluginData />
           </value>
         </entry>
         <entry key="com.perl5">
@@ -102,6 +110,11 @@
                 </set>
               </option>
             </PluginData>
+          </value>
+        </entry>
+        <entry key="org.jetbrains.kotlin">
+          <value>
+            <PluginData />
           </value>
         </entry>
         <entry key="org.jetbrains.plugins.github">
