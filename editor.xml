@@ -39,6 +39,7 @@
         <option value="JAVA.annotation.hints" />
         <option value="JAVA.microservices.url.path.inlay.hints" />
         <option value="kotlin.kotlin.ranges.hints" />
+        <option value="kotlin.microservices.url.path.inlay.hints" />
       </set>
     </option>
     <option name="disabledLanguages">
