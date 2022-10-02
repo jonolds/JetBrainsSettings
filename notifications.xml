@@ -1,6 +1,8 @@
 <application>
   <component name="NotificationConfiguration" showBalloons="false">
     <notification groupId="IDE and Plugin Updates" displayType="NONE" />
+    <notification groupId="Kotlin EAP" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Kotlin EAP Survey" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="ProfilerBalloon" displayType="TOOL_WINDOW" shouldLog="false" />
     <notification groupId="ProfilerNotification" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Profiling" shouldLog="false" />
